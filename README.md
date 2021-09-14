@@ -1,2 +1,1 @@
-# legendary-octo-rotary-phone
-Gatsbyjs blog websites with tailwindcss
+# store source code here...
